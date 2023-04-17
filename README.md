@@ -2,7 +2,7 @@
 
 ## Business Understanding
 
-Make a prediction for how long the customer will be a member using Liner Regression
+Make a prediction for how much customer spent in year
 
 ## Data Understanding
 
